@@ -922,13 +922,13 @@ PlayerSettings:
   qnxGraphicConfPath: 
   apiCompatibilityLevel: 6
   captureStartupLogs: {}
-  activeInputHandler: 1
+  activeInputHandler: 2
   windowsGamepadBackendHint: 0
   cloudProjectId: 773f3aa5-f514-49bd-978a-ed0ea2f3bc4e
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
   projectName: GGJ2026 Game
-  organizationId: 
+  organizationId: benac38200
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
