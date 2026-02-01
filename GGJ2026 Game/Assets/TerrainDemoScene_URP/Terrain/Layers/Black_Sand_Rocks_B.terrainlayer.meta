@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5cf8409443c17cf48b640c7ecab255a0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8574412962073106934
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213197
+  packageName: Unity Terrain - URP Demo Scene
+  packageVersion: 1.0.3
+  assetPath: Assets/TerrainDemoScene_URP/Terrain/Layers/Black_Sand_Rocks_B.terrainlayer
+  uploadId: 727820
