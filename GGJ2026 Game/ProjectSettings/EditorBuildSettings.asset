@@ -9,6 +9,12 @@ EditorBuildSettings:
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
   - enabled: 1
+    path: Assets/Scenes/Level1Meadow.unity
+    guid: a421564aa3ec46945ba55ebff7ddd93f
+  - enabled: 1
+    path: Assets/Scenes/Level1Desert.unity
+    guid: bc292e84048e2c744a7fc85d3e86e362
+  - enabled: 1
     path: Assets/Scenes/Level2Chasm.unity
     guid: b02ad3a146056b646a0db03521bef682
   - enabled: 1

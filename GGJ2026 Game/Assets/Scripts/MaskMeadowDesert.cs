@@ -3,7 +3,7 @@ using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class MaskInteractivity : MonoBehaviour
+public class MaskMeadowDesert : MonoBehaviour
 {
     public Transform player;
     void Start()
@@ -30,7 +30,7 @@ public class MaskInteractivity : MonoBehaviour
      {
          // Implement interaction logic
          //Debug.Log("Object interacted!");
-         SceneManager.LoadScene("Level2Mountain");
+         SceneManager.LoadScene("Level1Desert");
 
 
      }
