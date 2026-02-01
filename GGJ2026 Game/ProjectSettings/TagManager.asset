@@ -4,7 +4,11 @@
 TagManager:
   serializedVersion: 3
   tags:
+<<<<<<< Updated upstream
   - CollectibleObject
+=======
+  - PillarOfHope
+>>>>>>> Stashed changes
   layers:
   - Default
   - TransparentFX
