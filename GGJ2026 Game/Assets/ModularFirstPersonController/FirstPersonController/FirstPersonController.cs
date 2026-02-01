@@ -96,7 +96,7 @@ public class FirstPersonController : MonoBehaviour
 
     public bool enableJump = true;
     public KeyCode jumpKey = KeyCode.Space;
-    public float jumpPower = 5f;
+    public float jumpPower = 4f;
 
     // Internal Variables
     private bool isGrounded = false;
