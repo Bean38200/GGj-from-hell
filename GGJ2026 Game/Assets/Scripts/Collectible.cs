@@ -11,6 +11,5 @@ public class Collectible : MonoBehaviour
             Destroy(gameObject);
             CollectibleCounter.instance.IncreaseCollectibles(value);
         }
-
     }
 }
