@@ -4,5 +4,13 @@ public class Collectible : MonoBehaviour
 {
     public int value;
 
-    void OnTrigger
+    void OnTriggerEnter(Collider other)
+    {
+        if (other.gameObject.CompareTag("Player"))
+        {
+            Destroy(gameObject);
+            CollectibleCounter.instance.IncreaseCollectibles(value);
+        }
+
+    }
 }
