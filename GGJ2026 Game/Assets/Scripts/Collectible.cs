@@ -1,0 +1,8 @@
+using UnityEngine;
+
+public class Collectible : MonoBehaviour
+{
+    public int value;
+
+    void OnTrigger
+}
