@@ -464,7 +464,7 @@ GameObject:
   - component: {fileID: 429658945}
   - component: {fileID: 429658944}
   m_Layer: 5
-  m_Name: Canvas
+  m_Name: CollectibleText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -567,7 +567,7 @@ GameObject:
   - component: {fileID: 443819886}
   - component: {fileID: 443819885}
   m_Layer: 0
-  m_Name: Sphere
+  m_Name: ShittyCollectible
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
