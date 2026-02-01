@@ -29,8 +29,8 @@ public class MaskEndGame : MonoBehaviour
     void Interact()
      {
          // Implement interaction logic
-         Debug.Log("Object interacted!");
-        //  SceneManager.LoadScene("Level2Mountain");
+
+        SceneManager.LoadScene("EndCard");
 
 
      }
